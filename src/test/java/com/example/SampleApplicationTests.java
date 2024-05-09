@@ -41,12 +41,6 @@ class SampleApplicationTests {
     void contextLoads() {
     }
  
-    // @Test
-    // void getCheckTest(){
-    //     String expectedResult = "Hello this is alive";
-    //     String actualResult =  controler.getCheck();
-    //     assertEquals(expectedResult, actualResult);
-    // }
  
     @Test
     void saveDataTest(){
